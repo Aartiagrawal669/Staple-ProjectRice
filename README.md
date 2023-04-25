@@ -4,7 +4,7 @@ With its focus on promoting the medicinal varieties of rice and connecting farme
 
 ## Demo
 
-You can try out the application by visiting [this link](https://paribhandarkar.github.io/project-rice/).
+You can try out the application by visiting [this link](https://Aartiagrawal669.github.io/Staple-ProjectRice/).
 
 ## Technologies Used
 
@@ -14,19 +14,6 @@ You can try out the application by visiting [this link](https://paribhandarkar.g
 - PHP
 - Figma
 - MySQL
-
-
-## Role & Team
-
-As the sole UI/UX designer and front-end developer, I led a team with a back-end developer on "Staple," a web portal for farmers, conducting research, creating wireframes and prototypes, and delivering a functional portal with search and contact features.
-
-## What I Did
-
-I developed the front-end, designed the UI, created wireframes, and conducted research. Worked with a back-end developer, delivering a user-friendly web portal for farmers to access medicinal rice info and cultivation guidance, with search functionality and database storage.
-
-## What I Delivered
-
-I delivered user flows, wireframes, prototypes, and a fully functional UI for the web-based portal for farmers. I also created a design system and conducted actual research by visiting lab centers and interacting with professionals and farmers.
 
 ## Research Objectives:
 
@@ -46,5 +33,3 @@ I delivered user flows, wireframes, prototypes, and a fully functional UI for th
 - Cultivation Process: I gained knowledge about the cultivation process of medicinal rice, including seed selection, land preparation, sowing, irrigation, and harvesting.
 - Challenges Faced by Farmers: Through my conversations with farmers, I identified some of the key challenges they face in cultivating medicinal rice, such as lack of awareness, inadequate infrastructure, and pest management.
 
-### Click on the image for the video!
-[![Final video of fixing issues in your code in VS Code](https://paribhandarkar.vercel.app/static/media/image00027.8551b234a2db082e0582.jpeg)](https://www.youtube.com/watch?v=WD52sS8ecVQ)
